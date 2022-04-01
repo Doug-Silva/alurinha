@@ -32,7 +32,6 @@ body {
 	text-decoration: none;
 	transition: .5s;
 	display: block;
-
 	border-bottom: 1px solid #9799A6;
 }
 
@@ -56,6 +55,7 @@ body {
 	transition: .3s;
 	box-shadow: 2px 2px 2px #CCC;
 	position: relative;
+	border-radius: 8px;
 }
 
 .conteudoPrincipal-cursos-link a {
