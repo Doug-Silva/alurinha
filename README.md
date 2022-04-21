@@ -6,7 +6,7 @@
   </div><br>
 
   <h1>Alurinha</h1>
-  <p>Um gerenciador de cursos online, desenvolvido através do curso Flexbox da plataforma Alura</p>
+  <p>Um gerenciador de cursos online, desenvolvido através do curso Flexbox, da plataforma Alura</p>
 
   <div>
     <a href="https://github.com/Doug-Silva/alurinha/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/react" 
